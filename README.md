@@ -1,6 +1,6 @@
 - 👋 Hi, I’m `Omar Gomez`
-- 👀 I’m interested in `Cybersecurity`
-- 🌱 I’m currently learning about `Blockchain` and `Pentesting`
+- 👀 I’m interested in `Cybersecurity` and `Blockchain`
+- 🌱 I’m currently learning about `Blockchain Security Issues`, `Ethereum Smart Contracts (Solidity)` and `Pentesting (THM)`
 - 📫 How to reach me : Send an email to `omarandres2803@gmail.com`
 
 <!---
