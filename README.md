@@ -3,8 +3,8 @@
   - Electronic Engineering Bachelor Degree
   - Embedded Systems and IoT Master Degree
   - Cybersecurity Master Degree
-- 👀 I’m interested in `Cybersecurity` and `Blockchain`
-- 🌱 I’m currently learning about `Blockchain Security Issues`, `Ethereum Smart Contracts (Solidity)` and `Pentesting (THM)`
+- 👀 I’m interested in `Cybersecurity`, `Blockchain` and `Software Development`
+- 🌱 I’m currently learning about `Blockchain Security Issues`, `Ethereum Smart Contracts (Solidity)`, `Pentesting (THM)` and `MERN Stack`
 - 📫 How to reach me : Send an email to `omarandres2803@gmail.com`
 
 <!---
